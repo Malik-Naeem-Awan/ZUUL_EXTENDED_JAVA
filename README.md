@@ -1,5 +1,5 @@
 # ZUUL_EXTENDED_JAVA
-TEEXT BASED Adventure Game in Java 
+TEXT BASED Adventure Game in Java 
  
 ---------------------------------------------------- Extended Zuul-----------------------------------------------------------
  
