@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InventoryCommand
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ InventoryCommand\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=InventoryCommand()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InventoryCommand\r\n
+comment2.params=player
+comment2.target=boolean\ execute(Player)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Door.java.\ Stores\ information\ and\ provides\ locking\r\n\ and\ unlocking\ of\ doors,\ lockable\ exits\ in\ Zuul.\r\n
+comment1.params=direction\ neighbor\ islocked
+comment1.target=Door(java.lang.String,\ Room,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Door\r\n
+numComments=2

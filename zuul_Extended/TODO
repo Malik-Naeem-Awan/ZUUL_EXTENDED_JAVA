@@ -1,0 +1,21 @@
+Les questions 7.42 jusqu'à 7.48 ont été traitées
+Le projet a été posté sur nos deux sessions.
+Vous pouvez trouver plus d'informations dans le README
+
+
+- Give detailed indications on how to compile and run the project from the command line.
+
+	Compile all class of project with the command Javac.
+		
+	Go to src folder and Execute the main of project with the command line :
+		
+		java nolspotlex.v1.Main
+	
+
+-Answer the question: what is the difference between the withenums.v1 andwithenums.v2 versions? 
+Which is better and why?
+
+	The String of commands are constants and depend on the language player.
+	In the v1, the constants ("GO", "HELP") are put into the CommandWords class in the constructor 
+	of object whereas in the v2 they are put in the CommandWord enum.
+	By convention it's better putting the constants in a enum than a class.

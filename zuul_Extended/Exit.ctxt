@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Exit
+comment0.text=\r\n\ Exit.java.\ Stores\ information\ on\ exits,\ non-lockable\r\n\ travel\ avenues\ in\ Zuul.\r\n
+comment1.params=
+comment1.target=Exit()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Exit\r\n
+comment2.params=direction\ neighbor
+comment2.target=Exit(java.lang.String,\ Room)
+comment3.params=
+comment3.target=java.lang.String\ getDirection()
+comment4.params=
+comment4.target=Room\ getNeighbor()
+comment5.params=direction
+comment5.target=void\ setDirection(java.lang.String)
+comment6.params=neighbor
+comment6.target=void\ setNeighbor(Room)
+comment7.params=islocked
+comment7.target=void\ setislocked(boolean)
+comment8.params=
+comment8.target=boolean\ islocked()
+numComments=9

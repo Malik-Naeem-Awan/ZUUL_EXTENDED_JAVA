@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BeamerCommand
+comment0.text=\r\n\ BeamerCommand\ Class\r\n
+comment1.params=
+comment1.target=BeamerCommand()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GoCommand\r\n
+comment2.params=player
+comment2.target=boolean\ execute(Player)
+comment2.text=\ \r\n\ Try\ to\ use\ beamer\ device.\ When\ you\ charge\ the\ beamer,\ it\ memorizes\ the\ current\ room.\r\n\ When\ you\ fire\ the\ beamer,\ it\ transports\ you\ immediately\ back\ to\ the\ room\ it\ was\r\n\ charged\ in..\r\n\ Return\ always\ false\r\n
+numComments=3

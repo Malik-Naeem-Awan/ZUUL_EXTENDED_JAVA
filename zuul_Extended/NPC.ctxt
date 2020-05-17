@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\n\ NPC.java.\ Stores\ information\ about\ NPCs,\ non\ player\ characters.\r\n
+comment1.params=name\ description\ itemname\ itemdesc
+comment1.target=NPC(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
